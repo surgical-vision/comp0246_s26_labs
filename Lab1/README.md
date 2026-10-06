@@ -33,7 +33,7 @@ Try using ROS's implementation of forward kinematics for a robot arm, via the [R
 ```
 mkdir -p ros2_ws/src
 cd ros2_ws
-git clone https://github.com/surgical-vision/COMP0246_Labs src/COMP0246_Labs
+git clone https://github.com/surgical-vision/COMP0246_S26_Labs src/COMP0246_Labs
 ```
 ### step 1
 This lab depends on some stuff like tf2 and rviz2. rosdep documentation is available [here](https://docs.ros.org/en/rolling/Tutorials/Intermediate/Rosdep.html). You can install this via rosdep. If you haven't installed this before, install rosdep. If linux `sudo apt-get install python3-rosdep` else `pip install rosdep` may work or do your own research. 
