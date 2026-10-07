@@ -97,5 +97,5 @@ From here we will change some of the RVIZ configuration, specifically the transf
 
 Now change the joint angles in the GUI and you should be able to see the robot changes states, and now your transforms are driving this. Behavior should match Step 1, so you can check your work.
 
-Take a screenshot similar to the one above showing the robot pose and rviz settings and include this in your report.
+Take a screenshot similar to the one above showing the robot pose and rviz settings which can be included your report.
 
