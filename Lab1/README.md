@@ -52,6 +52,7 @@ rosdep install --from-paths ./ -y --ignore-src
 ### step 1.4
 compile and run the code (hopefully successfully)
 ```
+source /opt/ros/humble/setup.bash
 colcon build
 source install/setup.bash
 ros2 launch transform_helpers bringup.launch.py
